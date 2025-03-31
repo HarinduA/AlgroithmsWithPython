@@ -35,4 +35,4 @@ This repository serves as:
 Clone the repo:
 ```bash
 git clone https://github.com/HarinduA/Bubble_Sorting.git
-cd Bubble_Sorting
+cd <Particular Code name>
