@@ -16,6 +16,8 @@ You'll find Python implementations of various algorithms, such as:
 - Binary Search
 - Linear Search
 - Recursion examples
+- DFS
+- BFS
 - And more coming soon...
 
 ---
